@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Cannot enable the toggle keyboard in the iOS simulator in Xcode. I therefore had to use keyboard as the input source.
 ## License
 
     Copyright [Zixing Li] [name of copyright owner]
